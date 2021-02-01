@@ -1,0 +1,11 @@
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\bin\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.deps.json
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\bin\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.runtimeconfig.json
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\bin\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.runtimeconfig.dev.json
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\bin\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.dll
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\bin\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.pdb
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\obj\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.csprojAssemblyReference.cache
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\obj\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.csproj.CoreCompileInputs.cache
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\obj\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.AssemblyInfoInputs.cache
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\obj\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.AssemblyInfo.cs
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\obj\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.dll
+C:\Users\PIOTR\Documents\C# projects\ZdarzeniaMojPrzyklad\obj\Debug\netcoreapp2.0\ZdarzeniaMojPrzyklad.pdb
